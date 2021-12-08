@@ -1,2 +1,2 @@
-# MINI-PROJETO---IMC-
-Calculadora de IMC - simple :) 
+# MINI-PROJETO -> IMC
+Calculadora de IMC - simples :) 
